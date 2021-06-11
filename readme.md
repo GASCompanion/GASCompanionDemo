@@ -6,13 +6,18 @@
 
 ## Installation
 
-1. Open the [releases page](https://github.com/GASCompanion/GASCompanionDemo/releases) *or clone the repository using `git clone`*
-2. Download `GASCompanionExample.zip`
-3. Open `GASCompanionDemo.uproject`
+1. Clone the repository using `git clone`
+1. Open `GASCompanionDemo.uproject`
 
-![](editor_viewport.png)
+## Download Demo
+
+1. Open the [releases page](https://github.com/GASCompanion/GASCompanionDemo/releases)
+2. Download latest `GASCompanionDemo.zip`
+3. Open `WindowsNoEditor/GASCompanionDemo.exe`
 
 ## Example Maps
+
+![](editor_viewport.png)
 
 - Playground: No dependency test / debug map
     - Basic "shoot" ability

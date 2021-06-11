@@ -1,0 +1,5 @@
+
+[*.{h,cpp}]
+
+# ReSharper properties
+resharper_cpp_wrap_lines = false

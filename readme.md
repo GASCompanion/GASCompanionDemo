@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. Clone the repository using `git clone`
+1. Clone the repository using `git clone --recurse-submodules`
 1. Open `GASCompanionDemo.uproject`
 
 ## Download Demo

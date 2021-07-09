@@ -89,3 +89,5 @@ DerivedDataCache/*
 # from Marketplace folders to the game folder (Content/Demo)
 /Content/*
 !/Content/Demo
+
+Plugins/GASCompanion

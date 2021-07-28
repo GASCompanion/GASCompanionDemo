@@ -39,6 +39,10 @@
 		{
 			"Name": "GASCompanionExamples",
 			"Enabled": true
+		},
+		{
+			"Name": "GASCompanionALS",
+			"Enabled": true
 		}
 	]
 }

@@ -91,4 +91,5 @@ DerivedDataCache/*
 !/Content/Demo
 
 Plugins/GASCompanion
-Backups/
+Plugins/Developer
+Backups

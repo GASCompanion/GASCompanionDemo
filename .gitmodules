@@ -1,6 +1,3 @@
-[submodule "Plugins/GASCompanionExamples"]
-	path = Plugins/GASCompanionExamples
-	url = https://github.com/GASCompanion/GASCompanionExamples
 [submodule "Plugins/GASCompanionALS"]
 	path = Plugins/GASCompanionALS
 	url = https://github.com/GASCompanion/GASCompanionALS.git

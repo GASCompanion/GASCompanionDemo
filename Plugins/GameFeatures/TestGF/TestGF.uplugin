@@ -23,11 +23,5 @@
 		}
 	],
 	"ExplicitlyLoaded": true,
-	"BuiltInInitialFeatureState": "Registered",
-	"Plugins": [
-		{
-			"Name": "GASCompanionExamples",
-			"Enabled": true
-		}
-	]
+	"BuiltInInitialFeatureState": "Registered"
 }

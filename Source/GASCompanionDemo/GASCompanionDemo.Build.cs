@@ -12,6 +12,9 @@ public class GASCompanionDemo : ModuleRules
 
 		PrivateDependencyModuleNames.AddRange(new string[]
 		{
+			"GASCompanion",
+			"GameplayTags",
+			"GameplayAbilities"
 		});
 	}
 }

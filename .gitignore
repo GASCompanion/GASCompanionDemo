@@ -91,4 +91,10 @@ DerivedDataCache/*
 !/Content/Demo
 
 Plugins/GASCompanion
-Backups/
+Plugins/BlueprintAttributeSets
+Plugins/Developer
+Backups
+
+Script/
+Plugins/KantanDocGenPlugin/
+Plugins/GameFeatures/TestGF

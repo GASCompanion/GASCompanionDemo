@@ -1,5 +1,7 @@
 # GAS Companion Example Project
 
+> New Demo / Example project for UE5 is currently being worked on.
+
 **Requires GAS Companion 2.0.0 or higher**
 
 ![](main_menu.png)

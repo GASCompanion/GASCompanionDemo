@@ -10,12 +10,11 @@ public class GASCompanionDemo : ModuleRules
 
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
 
-		PrivateDependencyModuleNames.AddRange(new string[] {
+		PrivateDependencyModuleNames.AddRange(new string[]
+		{
 			"GASCompanion",
-			"GameplayAbilities",
-			"GameplayTasks",
 			"GameplayTags",
+			"GameplayAbilities"
 		});
-
 	}
 }

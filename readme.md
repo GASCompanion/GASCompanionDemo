@@ -1,5 +1,7 @@
 # GAS Companion Example Project
 
+> Requires GAS Companion 5.1.0 or higher (installed in engine) - Note: 5.1.0 is not available yet on the marketplace and will be uploaded shortly.**
+
 ## Installation
 
 1. Clone the repository using `git clone`

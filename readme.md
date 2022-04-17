@@ -1,6 +1,8 @@
 # GAS Companion Example Project
 
-> Requires GAS Companion 5.1.0 or higher (installed in engine) - Note: 5.1.0 is not available yet on the marketplace and will be uploaded shortly.
+> Requires GAS Companion 5.1.0 or higher (installed in engine)
+
+This is a c++ project, you'll need [Visual Studio 2019 and compilation toolchain](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/VisualStudioSetup/) in order to compile the project.
 
 ## Installation
 

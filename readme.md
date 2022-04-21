@@ -14,7 +14,7 @@ This is a c++ project, you'll need [Visual Studio 2019 and compilation toolchain
 ### Download Project
 
 1. Open the [releases page](https://github.com/GASCompanion/GASCompanionDemo/releases)
-2. Download latest `Source code (zip)`
+2. Download latest `GASCompanionDemo_..._Win64.zip` file for your platform (Includes pre-built binaries)
 3. Open `GASCompanionDemo.uproject` (compilation needed)
 
 ## Maps

@@ -58,11 +58,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GameplayAbilities",
-			"Enabled": true
+			"Name": "BlueprintAttributeSets",
+			"Enabled": false
 		},
 		{
-			"Name": "BlueprintAttributeSets",
+			"Name": "DocDoc",
 			"Enabled": false
 		}
 	]

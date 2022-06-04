@@ -60,10 +60,6 @@
 		{
 			"Name": "BlueprintAttributeSets",
 			"Enabled": false
-		},
-		{
-			"Name": "DocDoc",
-			"Enabled": false
 		}
 	]
 }

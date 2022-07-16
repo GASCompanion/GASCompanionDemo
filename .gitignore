@@ -97,3 +97,7 @@ Backups
 
 Script/
 Plugins/KantanDocGenPlugin/
+Plugins/DaedalicTestAutomationPlugin/
+
+*.txt
+*.sln.DotSettings.user

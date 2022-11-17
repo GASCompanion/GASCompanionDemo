@@ -101,3 +101,6 @@ Plugins/DaedalicTestAutomationPlugin/
 
 *.txt
 *.sln.DotSettings.user
+.vsconfig
+
+Temp/

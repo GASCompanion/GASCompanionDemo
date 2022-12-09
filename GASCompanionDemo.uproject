@@ -22,16 +22,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d83c6f34c3fb4b7092dde195c37c7413"
 		},
 		{
-			"Name": "AGRPRO",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c4f13f7fc2c048d8ad4985ecfbf4f6c6"
-		},
-		{
-			"Name": "ElectronicNodes",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
-		},
-		{
 			"Name": "SteamVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -39,27 +29,6 @@
 				"Win64",
 				"Linux"
 			]
-		},
-		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		},
-		{
-			"Name": "TestGF",
-			"Enabled": true
-		},
-		{
-			"Name": "KantanDocGen",
-			"Enabled": false
-		},
-		{
-			"Name": "BlueprintAttributeSets",
-			"Enabled": false
 		}
 	]
 }

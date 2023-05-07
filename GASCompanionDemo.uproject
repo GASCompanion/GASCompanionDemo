@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -29,6 +29,10 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "GASCompanionTests",
+			"Enabled": true
 		}
 	]
 }

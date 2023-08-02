@@ -8,10 +8,12 @@ public class GASCompanionDemoEditorTarget : TargetRules
 	public GASCompanionDemoEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
 
 		bUseUnityBuild = false;
 		bUsePCHFiles = false;
+		
+		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
 		ExtraModuleNames.AddRange( new string[] { "GASCompanionDemo" } );
 	}

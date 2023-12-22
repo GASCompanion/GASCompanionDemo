@@ -14,8 +14,8 @@ This is a c++ project, you'll need [Visual Studio 2019 and compilation toolchain
 ### Download Project
 
 1. Open the [releases page](https://github.com/GASCompanion/GASCompanionDemo/releases)
-2. Download latest `GASCompanionDemo_..._Win64.zip` file for your platform (Includes pre-built binaries)
-3. Open `GASCompanionDemo.uproject` (compilation needed)
+2. Download latest `GASCompanionDemo_..._Win64.zip` file for your platform and engine version (Includes pre-built binaries)
+3. Open `GASCompanionDemo.uproject`
 
 ## Maps
 
@@ -30,7 +30,7 @@ Example maps can be found in `/Game/Demo/Maps`
   - Handle attribute changes within a UMG widget
   - React to gameplay effects changes (showing an icon whenever the Burnt effect is applied and active)
   - Be notified of cooldown changes for 3 abilities.
-  - Basic exampe of a simple Gameplay Cue to handle the visuals of the Burnt gameplay effect.
+  - Basic example of a simple Gameplay Cue to handle the visuals of the Burnt gameplay effect.
 
 ## Documentation
 

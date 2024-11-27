@@ -1,8 +1,14 @@
 # GAS Companion Example Project
 
-> Requires GAS Companion 5.1.0 or higher (installed in engine)
+> Requires GAS Companion installed in engine
 
 This is a c++ project, you'll need [Visual Studio 2019 and compilation toolchain](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/VisualStudioSetup/) in order to compile the project.
+
+## Engine compatibility
+
+Last saved on 5.3 - Should be compatible with Unreal 5.3 versions and higher (you can tweak .uproject `EngineAssociation` field to match your launcher installed engine)
+
+Some .uasset were saved in 5.3, trying to load the project in an unreal version lower than 5.3 may fail to load assets that were saved in 5.3 (will not appear in content browser). Trying to open the project in Unreal Editor 5.3 or higher is recommended.
 
 ## Installation
 
